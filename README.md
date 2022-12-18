@@ -1,29 +1,18 @@
-<p align="center">
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="410" alt="iComics on an iPhone XS Max" align="right" />
-</p>
+# 💫 About Me:
+💥😀 I'm currently learning full stack web development. 💻<br>💻 Loves publishing open source software on GitHub.<br>🔑 I am from India. 😃<br>🎮 Loves playing Destiny 2 & Splatoon 2.<br>🎤 Also loves singing and karaoke.<br>😊 Loves coding. 👩‍💻<br>💻 Follow my github repository for more projects..💻<br>😁 Nice to meet you!
 
-# G'day! I'm Pushpak Rai. 😃
 
-<p align="left">
-<a href="https://www.linkedin.com/in/pushpak-rai-0ab3a3200">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-<a href="https://www.dribbble.com">
-<img src="https://img.shields.io/badge/-Dribbble-%23ff5798" alt="Dribbble"/></a> 
-<a href="https://mobile.twitter.com/PushpakRai3">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-<a href="https://youtube.com/channel/UCZvGz6xmtV4qsea_WtUOCJw">
-<img src="https://img.shields.io/badge/-YouTube-%23FF0000" alt="YouTube" /></a> 
-<a href="https://instagram.com/pushpak_rai_?igshid=YmMyMTA2M2Y=">
-<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
-<a href="https://stackoverflow.com/users/14663435/pushpak-rai">
-<img src="https://img.shields.io/badge/-Stack%20Overflow-%23f48024" alt="Stack Overflow" /></a> 
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/pushpak.rai.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pushpak_rai_/ ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpak-rai-0ab3a3200) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/pushpak rai) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/Pushpak Rai ) 
 
-* 💥😀 Making a beautiful website [e-commerce](https://e-commerce-website-seven.vercel.app/).
-* 💻 Loves publishing [open source software on GitHub](https://github.com/pushpakrai1607).
-* 🔑 I am from India. 😃
-* 🎮 Loves playing [Destiny 2](https://bungie.net) & [Splatoon 2](https://www.nintendo.com/games/detail/splatoon-2-switch/).
-* 🎤 Also loves singing and karaoke.
-* 😊 Loves coding. 👩‍💻
-* 💻 Follow my github repository.💻
-* 😁 Nice to meet you!
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pushpakrai1607&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pushpakrai1607&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakrai1607&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
