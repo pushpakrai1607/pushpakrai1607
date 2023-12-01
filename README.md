@@ -1,10 +1,7 @@
 
-
-- Sure, here's a more detailed version of your bio:
-
 💥😀 I'm currently immersing myself in the world of **full stack web development**, mastering both front-end and back-end technologies to build complete, functional web applications. 💻
 
-- 🌱 I’m currently learning **Next Js, React Js and MongoDB**
+🌱 I’m currently learning **Next Js, React Js and MongoDB**
 
 💻 I have a passion for **open-source software** and love contributing to the community by publishing my own projects on **GitHub**. I believe in the power of collaboration and the sharing of knowledge in the tech industry.
 
@@ -22,12 +19,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pushpakrai1607](https://github.com/pushpakrai1607)
 
-- 💬 Ask me about **Next Js, React Js and MongoDB**
-
-- 📫 How to reach me **pushpakrai7@gmail.com**
+- 💬 Ask me about **Next Js, React Js,JavaScript and MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+  - 📫 How to reach me **pushpakrai1607@gmail.com**
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
