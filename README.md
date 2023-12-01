@@ -1,7 +1,24 @@
-<h1 align="center">Hi 👋, I'm Pushpak Rai</h1>
-<h3 align="center">💥😀 I'm currently immersing myself in the world of **full stack web development**, mastering both front-end and back-end technologies to build complete, functional web applications. 💻</h3>
+
+
+- Sure, here's a more detailed version of your bio:
+
+💥😀 I'm currently immersing myself in the world of **full stack web development**, mastering both front-end and back-end technologies to build complete, functional web applications. 💻
 
 - 🌱 I’m currently learning **Next Js, React Js and MongoDB**
+
+💻 I have a passion for **open-source software** and love contributing to the community by publishing my own projects on **GitHub**. I believe in the power of collaboration and the sharing of knowledge in the tech industry.
+
+🔑 Hailing from the diverse and vibrant country of **India**, I bring a unique perspective to my coding projects. 😃
+
+🎮 In my downtime, I enjoy immersing myself in the virtual worlds of **Destiny 2 & Splatoon 2**. These games not only provide entertainment but also inspire my creativity and problem-solving skills.
+
+🎤 Besides coding and gaming, I also have a love for **music**. Singing and karaoke are some of my favorite pastimes, allowing me to express myself in a different medium.
+
+😊 My love for **coding** is at the heart of everything I do. As a dedicated programmer, I'm always looking for new challenges and ways to improve my skills. 👩‍💻
+
+💻 For more of my work and latest projects, feel free to follow my **GitHub repository**. I'm always working on something new and exciting. 💻
+
+😁 It's a pleasure to meet you! I'm looking forward to collaborating and learning with others in the tech community.
 
 - 👨‍💻 All of my projects are available at [https://github.com/pushpakrai1607](https://github.com/pushpakrai1607)
 
@@ -21,4 +38,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpakrai1607&show_icons=true&locale=en&layout=compact" alt="pushpakrai1607" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpakrai1607&show_icons=true&locale=en" alt="pushpakrai1607" /></p>
+
