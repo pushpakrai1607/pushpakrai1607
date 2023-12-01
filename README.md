@@ -33,7 +33,7 @@
 
 <h3 align="left">Languages Use:</h3>
 
-<p><img align="left"  width=800 src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpakrai1607&show_icons=true&locale=en&layout=compact" alt="pushpakrai1607" /></p> <br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpakrai1607&show_icons=true&locale=en&layout=compact" alt="pushpakrai1607" /></p> <br><br><br><br>
 
 
 <h3 align="left">Support:</h3>
