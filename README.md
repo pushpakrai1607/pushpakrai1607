@@ -1,7 +1,6 @@
+# Hi
 
-# Hey there! 👋
-
-I'm Pushpak Rai a dedicated full stack web developer on a mission to create robust and functional web applications. 💻
+I am Pushpak Rai, a dedicated full stack web developer, driven by a mission to create robust and functional web applications. Constantly seeking out modern tools to enhance the experiences of developers and end-users alike, I am committed to staying at the forefront of technological advancements. As a self-proclaimed productivity nerd, I actively implement workflows and processes to continuously improve my productivity as a developer. Let's collaborate and build something remarkable together!
 
 ## What I'm up to:
 - Currently mastering Next.js, React.js, and MongoDB to stay at the forefront of web development. 🌱
@@ -14,7 +13,6 @@ I'm Pushpak Rai a dedicated full stack web developer on a mission to create robu
 
 ## Beyond Coding:
 - In my downtime, I immerse myself in the virtual worlds of Destiny 2 & Splatoon 2, drawing inspiration for creativity and problem-solving. 🎮
-- I also have a love for music; singing and karaoke allow me to express myself in a different medium. 🎤
 
 ## Coding Philosophy:
 - My love for coding is at the heart of everything I do. As a dedicated programmer, I constantly seek new challenges to improve my skills. 👩‍💻
@@ -27,6 +25,7 @@ I'm Pushpak Rai a dedicated full stack web developer on a mission to create robu
 
 👨‍💻 [GitHub](https://github.com/pushpakrai1607)
 💬 Ask me about Next.js, React.js, JavaScript, and MongoDB
+
 📫 Reach me at pushpakrai1607@gmail.com
 
 Looking forward to connecting with fellow tech enthusiasts! 😁
