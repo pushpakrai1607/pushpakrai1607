@@ -1,4 +1,3 @@
-# Hi
 
 I am Pushpak Rai, a dedicated full stack web developer, driven by a mission to create robust and functional web applications. Constantly seeking out modern tools to enhance the experiences of developers and end-users alike, I am committed to staying at the forefront of technological advancements. As a self-proclaimed productivity nerd, I actively implement workflows and processes to continuously improve my productivity as a developer. Let's collaborate and build something remarkable together!
 
