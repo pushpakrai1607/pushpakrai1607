@@ -31,7 +31,7 @@ It's a pleasure to meet you! I'm excited about collaborating and learning within
 
 📫 Reach me at pushpakrai1607@gmail.com
 
-Looking forward to connecting with fellow tech enthusiasts! 😁
+Looking forward to connecting with fellow tech enthusiasts! 😃
 
 Connect with me:
 
